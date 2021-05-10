@@ -26,3 +26,9 @@ yarn install
 ## ScreenShots
 
 ![alt text](https://github.com/mk-knight23/Cadwork_Internship/blob/main/Screenshots/23.png?raw=true)
+
+![alt text](https://github.com/mk-knight23/Cadwork_Internship/blob/main/Screenshots/24.png?raw=true)
+
+![alt text](https://github.com/mk-knight23/Cadwork_Internship/blob/main/Screenshots/25.png?raw=true)
+
+![alt text](https://github.com/mk-knight23/Cadwork_Internship/blob/main/Screenshots/26.png?raw=true)
